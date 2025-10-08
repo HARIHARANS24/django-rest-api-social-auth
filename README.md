@@ -8,7 +8,7 @@ A modern Django 5 REST API project template with:
 ✅ Google OAuth2 login (via django-allauth)  
 ✅ Session authentication for browser clients  
 ✅ User management (`users` app)  
-✅ SQLite for development  
+✅ SQLite for development   
 ✅ Easily extendable for production (PostgreSQL, CORS, API versioning, etc.) 
 
 ---
