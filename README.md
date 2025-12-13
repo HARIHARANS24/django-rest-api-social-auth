@@ -5,7 +5,7 @@ A modern Django 5 REST API project template with:
 
 ✅ Django REST Framework (DRF)   
 ✅ Token-based authentication (via dj-rest-auth)    
-✅ Google OAuth2 login (via django-allauth)     
+✅ Google OAuth2 login (via django-allauth)      
 ✅ Session authentication for browser clients     
 ✅ User management (`users` app)     
 ✅ SQLite for development   
